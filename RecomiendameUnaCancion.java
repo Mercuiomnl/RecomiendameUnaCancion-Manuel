@@ -1,5 +1,3 @@
-package SpotyLocal;
-
 /*
 
 Autor: Manuel Samir Nicolas Reyes
@@ -15,5 +13,12 @@ public class RecomiendameUnaCancion {
         System.out.println("Cancion: Levels");
         System.out.println("Artista: Avicii");
         System.out.println("¿Por que?: La instrumental es muy buena y la letra es motivadora");
+
+        // Recomendación agregada por Esteban Perez
+        System.out.println();
+        System.out.println("Esteban recomienda:");
+        System.out.println("Canción: Black");
+        System.out.println("Artista: Pearl Jam");
+        System.out.println("¿Por qué?: la guitarra es buenisima");
     }
 }
